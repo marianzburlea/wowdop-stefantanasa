@@ -1,0 +1,92 @@
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 15rem;
+    width: 15rem;
+    object-fit: c;
+    position: relative;
+    isolation: isolate;
+    
+}
+
+.card-container img{
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    
+}
+.job-title{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 1rem;
+    min-width: 8rem;
+    background-color: white;
+    left:9rem;
+    top: 1rem;
+    border-radius: 0.3rem;
+    border: solid 1px black;
+    padding-block: 1rem;
+
+}
+.job-title h2 {
+    font-size: 0.8rem;
+}
+.details{
+    display: grid;
+
+    grid-template-areas: 
+       "old old"
+       "currency currency"
+       "income income ";
+    justify-self: center;
+    position: relative;
+
+    height: 35%;
+    width: 87%;
+    margin-bottom: 1rem;
+
+    z-index: 1
+}
+.details::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background: white;
+    opacity: 0.4;
+        border-radius: 0.3rem;
+}
+.old-salary{
+    margin-top:0.5rem;
+    font-size: 0.8rem;
+    grid-area: old;
+    justify-self: center;
+}
+.currency{
+    display: flex;
+    border:2px solid var(--light-green);
+   grid-area: currency;
+   justify-self: center;
+   justify-content: space-around;
+   
+   border-radius: 2rem;
+   width: 90%;
+   height: 1.5rem;
+}
+.currency span{
+    align-self: center;
+        height: auto;
+        border-radius: 2rem;
+        padding-inline: 1rem;
+}
+.income{ 
+    grid-area: income;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1rem;
+}

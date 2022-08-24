@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Marian Zburlea",
+        "status":"unemployed",
+        "description":"I used to be poor most of my life, unable to afford a bus ticket to an interview. I asked everyone for help and no one was able or willing to do that. I worked 2 - 3 jobs since I know myself, no Saturdays or Sundays free. I feel your pain better than anyone as I fight pain every single day, and I win every single time.In the last 7 years I dedicated my entire life to put a STOP to high paid jobs being inaccessible for people without company experience, without a portfolio or how to get a job against hundreds of aplicants for the same job.My moto is to Deliver on Promise and bring the WoW factor with every client you win! Shall we start to copy/paste more than three (3) decades of experience into your valuable skills?",
+        "facebook": "https://www.facebook.com/marianzburlea",
+        "linkedin":"https://www.linkedin.com/in/marianzburlea/",
+        "sallaries":[12000, 24000, 30000 ,40000]
+        
+    },
+    {
+        "name": "Iulia Malciu",
+        "status":"unemployed",
+        "description":"I have finished university and met real life after that. I struggled for many years trying to make sense how to gain more experience and grow into a career. I started as a Project Manager Intern at WoW DoP with Zero knowledge and focused on discovering how project needs come to life from client to developer I soon fell in love with converting designs and requirements into React Components so I can express myself more dynamically with my web solutions. I started looking for an opportunity on the 10th of January, and six weeks later I was presented with my first trial. I have three months to convert everything I do now know into my greatest assets!",
+        "facebook": "https://www.facebook.com/UnfrozenOne",
+        "linkedin":"https://www.linkedin.com/in/iuliamalciu/",
+        "sallaries":[12000, 24000, 30000 ,40000]
+        
+    }
+]
