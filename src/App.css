@@ -2,6 +2,9 @@
   --light-green:#4af0ab;
   --white: white; 
 }
+body{
+  background-color: rgb(247, 248, 247);
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700;900&display=swap');
 
@@ -10,14 +13,18 @@ h1, h2,h3,h4,h5, p{
   margin:0px;
   padding:0px;
 }
-
+.logo{
+  cursor: pointer
+}
 
 .logo span{
-  color: white
+  color: white;
+  cursor:pointer
 }
 .nav{
   height: 4rem;
   display: flex;
+  width: 100%;
   justify-content: center;
   align-items: center;
   background-color: var(--light-green);
@@ -111,6 +118,7 @@ align-self: center;
     text-decoration-color: var(--light-green);
 }
 .subtitle{
+  text-align: center;
   font-size: 1.2rem;
   font-weight: 700;
 
@@ -147,3 +155,4 @@ min-width: 10rem;
   overflow: hidden;
   margin:0 7%
 }
+.why-us {}

@@ -1,0 +1,87 @@
+
+.profile {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.profile:nth-child(1){
+    
+}
+.profile-image{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 20rem;
+    overflow: hidden;
+    
+    
+}
+
+.profile-card img{
+    width: 100%;
+    object-fit: fill;
+
+   
+}
+.profile h1{
+    
+}
+
+.profile h2{
+
+}
+.description{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.description p{
+    height: 5rem;
+    overflow: hidden;
+}
+.description button{
+    justify-self: center;
+    background-color: var(--light-green);
+    padding: 1rem 2rem;
+    border:none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.socials{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+    margin:1rem;
+ 
+
+}
+.socials p{
+    font-size: 2rem;
+}
+
+.social-icons-group i {
+    font-size: 4rem
+
+}
+.bi-facebook:hover{
+color: rgb(33, 33, 233);
+
+}
+.bi-linkedin:hover{
+color: rgb(33, 33, 233);
+}
+@media (max-width: 400px)  {
+    .bi-facebook{
+        color:blue
+    }
+    .bi-linkedin{
+        color:blue
+    }
+}
