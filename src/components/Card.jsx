@@ -1,7 +1,9 @@
 import React from "react";
 import dots from "../data/dots.png";
+import { useNavigate } from "react-router-dom";
 
 export const Card = ({ profile }) => {
+  let navigate = useNavigate();
   return (
     <main className="card-container">
       <div className="square">
@@ -12,15 +14,13 @@ export const Card = ({ profile }) => {
         <h2>{profile.position}</h2>
       </div>
       <div className="details">
-        <p className="old-salary">{profile.prev_salary}</p>
+        <p className="old-salary">previous salary {profile.prev_salary}</p>
         <div className="currency">
-          <span style={{ background: "#4af0ab" }}>£</span>
-          <span>$</span>
-          <span>RON</span>
+          <strong className="new-salary">£{profile.current_salary}/year</strong>
         </div>
         <div className="income">
           <span>income</span>
-          <div className="new-salary">{profile.current_salary}/year</div>
+          <button>View more</button>
         </div>
       </div>
     </main>

@@ -26,8 +26,6 @@ export const Carousel = ({ setProfile }) => {
               className="item"
               key={i}
               onClick={() => {
-                console.log("Profile set: ", profile);
-                navigate("/profile");
                 setProfile(profile);
               }}
             >

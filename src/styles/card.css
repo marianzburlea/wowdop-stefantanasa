@@ -64,16 +64,18 @@
 .old-salary{
     margin-top:0.5rem;
     font-size: 0.8rem;
+    text-align: center;
+    width: 100%;
+    font-weight: bolder;
     grid-area: old;
     justify-self: center;
 }
 .currency{
     display: flex;
-    border:2px solid var(--light-green);
+    background-color: var(--light-green);
    grid-area: currency;
    justify-self: center;
    justify-content: space-around;
-   
    border-radius: 2rem;
    width: 90%;
    height: 1.5rem;
@@ -82,7 +84,6 @@
     align-self: center;
         height: auto;
         border-radius: 2rem;
-        padding-inline: 1rem;
 }
 .income{ 
     grid-area: income;
@@ -90,10 +91,19 @@
     justify-content: space-around;
     font-size: 1rem;
 }
+.new-salary{
+    color:white;
+}
 .square{
     height: 5rem;
     width: 5rem;
     position: absolute;
     top:-2rem;
-    left:-2rem
+    left:-2rem;
+    
+}
+img::before {
+    content:"";
+    background-color: red;
+    z-index: 0;
 }

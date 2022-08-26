@@ -40,5 +40,56 @@
         "linkedin":"https://www.linkedin.com/in/iuliamalciu/"
         
         
+    },
+    {
+        "name": "Carol Enache",
+        "profile_pic":"https://wowdop.com/image/member/png/carol-enache.png",
+        "status":"unemployed",
+        "prev_salary":40000,
+         "current_salary":125000,
+        "curreency":"£",
+        "position": "Senior Front-End Developer",
+        "description":"Carol bacame the first member From Zero to Multiple Job Offers to achive an income over £100,000 per year as a member of WoW DoP. His fiance became a highly paid web developer too sky-rocket their income.",
+                "facebook": "https://facebook.com/enache.carol",
+        "linkedin":"https://linkedin.com/in/carol-enache-59504294"
+        
+        
+    },
+    {
+        "name": "Elena Tandara",
+        "profile_pic":"https://wowdop.com//image/member/jpg/elena-tandara.jpg",
+        "status":"unemployed",
+        "prev_salary":0,
+         "current_salary":110000,
+        "curreency":"£",
+        "position": "Senior Front-End Developer",
+        "description":"Elena got quickly From Zero to Multiple Job Offers in just three (3) months, achieving £50,000 im her first year. Now she enjoys working remotely from anywhere she likes to. Elena was looking for her next big move in life and career wise.  She had a big choice to make. One, to start a day that will allow her to support her expenses, and do part time with WoW DoP. The second one was to dedicate herself full time and ask her boyfriend to help her out through the start of the From Zero to Multiple Job Offers process. Elena got her first job from the first round of three interviews, joining a team of developers dedicated to improve insurance products and increase the safety of their clients. She started studying in an I.T. University, aiming develop skills and be able to find a job after 4 years. The most valuable option for her was to invest all the time she had in gaining skills, knowledge and real world project experience as soon and as much as possible. She continued working on multiple projects helping out the WoW DoP community, which exposed her to a vast amount of knowledge and experience, becoming very confident in communicating and delivering in any team she belonged to. She found it very difficult to get any valuable guidance and she felt like not gaining real life skills. That is how she started looking for more help, and found WoW DoP. She started plowing through projects, asking questions all the time she got stuck, devouring the internet of valuable information and positioning herself from Zero to Multiple Job Offers in just three months. A few years later, day to day practice on projects or helping the community, Elena reached Senior Web Developer value, and started a fresh path as a young entrepreneur providing web services and solutions to big companies as a Highly Skilled JavaScript Consultant.",
+        "facebook": "https://facebook.com/tandara.elena.9",
+        "linkedin":"https://linkedin.com/in/elena-tandara"
+    },
+    {
+        "name": "Elena Tandara",
+        "profile_pic":"https://wowdop.com//image/member/jpg/maria-teodora-cotofana.jpg",
+        "status":"restaurant supervisor",
+        "prev_salary":24000,
+         "current_salary":52000,
+        "curreency":"£",
+        "position": "Expert Front-End Developer",
+        "description":"Maria has chosen first the educational path and tried to follow University, soon to discover this path is not suitable for her. Years of progress have been accomplished in just a couple of months, giving her the opportunity to get hired and 1st promotion from the first year of being a member of WoW DoP. Maria was a traffic warden. She used to work long hours and wroking through bad weather conditions on a daily basis. To add more to it there are a lot of people in this world that consider this the most hated job in the world, especially when they get a ticket. She was always looking for a change away from this temporary job. She continued her full time job and started to practice with WoW DoP for a couple of hours during the working days and full time over the weekend. She started the IT University and along the way she found herself in a position of being unable to pass all the exams or gain any real world knowledge, and she was desperate to receive proper help and guidance.  She started her first job as a Junior Web Developer after six (6) months, and soon found herself in the position to take more responsability, got promoted to Expert Web Developer, working on multiple projects day in day out.  This is how she discovered WoW DoP, through a common friend being inspired by Valentina Vanu and started her journey to present, as an Expert Web Developer. Maria set her target very high and discovers new challenges every single day, gaining experience and skills at super speed",        "facebook": "https://facebook.com/tandara.elena.9",
+        "linkedin":"https://linkedin.com/in/maria-teodora-c",
+        "facebook": "https://facebook.com/mushyroom.m"
+    },
+    {
+        "name": "Valentina Vanu",
+        "profile_pic":"https://wowdop.com//image/member/jpg/maria-teodora-cotofana.jpg",
+        "status":"restaurant supervisor",
+        "prev_salary":0,
+         "current_salary":58000,
+        "curreency":"£",
+        "position": "Expert Front-End Developer",
+        "description":"As the time was passing, I saw many other people starting and succeding, while I was struggling to make it on my own. I decided to ask for help. I spent day and night, following all the guidance and challenges WoW DoP was exposing me to, and managed to land my first job in 11 weeks, out of three interviews. At my next job, I got tens of interviews and 5 final stage rounds schedules in 3 days. Today, I make a living on my own and enjoy the best I can life during covid:) I miss my dog, Chloe and I plan to get her reunited with me as soon as possible. ",        "facebook": "https://facebook.com/tandara.elena.9",
+        "linkedin":"https://linkedin.com/in/valentinavanu",
+        "facebook": "https://facebook.com/ValentinaVanu"
     }
+
 ]
